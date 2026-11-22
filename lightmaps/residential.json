@@ -1,0 +1,12 @@
+{
+ "category": "residential",
+ "floor": "F04",
+ "res": 1024,
+ "samples": 256,
+ "skyRef": 0.38510188460350037,
+ "lampRef": 2.569706678390503,
+ "sunRef": 1.3411061763763428,
+ "sunTime": 900,
+ "meanSky": 0.19178785383701324,
+ "meanLamp": 0.11683204770088196
+}

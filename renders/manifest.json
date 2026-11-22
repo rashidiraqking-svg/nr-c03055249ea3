@@ -1,0 +1,679 @@
+{
+  "generatedBy": "blender/build_nakhla.py",
+  "blender": "5.2.3 LTS",
+  "note": "Offline Cycles renders of the same concept geometry, furniture meshes and textures as the interactive model (standard finish package). Physical sky + sun from the simulated solar position; AgX view transform. Not photographs.",
+  "items": [
+    {
+      "file": "exterior_day.jpg",
+      "title": {
+        "en": "Tower — afternoon",
+        "ar": "البرج — عصراً",
+        "ckb": "تاوەر — پاشنیوەڕۆ",
+        "zh": "塔楼 — 下午"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 960,
+      "exposureStops": -5.65,
+      "samples": 200
+    },
+    {
+      "file": "exterior_golden.jpg",
+      "title": {
+        "en": "Tower — golden hour",
+        "ar": "البرج — الساعة الذهبية",
+        "ckb": "تاوەر — کاتژمێری زێڕین",
+        "zh": "塔楼 — 黄金时刻"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1080,
+      "exposureStops": -4.19,
+      "samples": 200
+    },
+    {
+      "file": "exterior_dusk.jpg",
+      "title": {
+        "en": "Tower and city — blue hour",
+        "ar": "البرج والمدينة — الغسق",
+        "ckb": "تاوەر و شار — کاتی شینی ئێوارە",
+        "zh": "塔楼与城市 — 蓝调时刻"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1165,
+      "exposureStops": -0.56,
+      "samples": 200
+    },
+    {
+      "file": "exterior_night.jpg",
+      "title": {
+        "en": "Tower — night",
+        "ar": "البرج — ليلاً",
+        "ckb": "تاوەر — شەو",
+        "zh": "塔楼 — 夜晚"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1260,
+      "exposureStops": 1.65,
+      "samples": 200
+    },
+    {
+      "file": "street_arrival.jpg",
+      "title": {
+        "en": "Street arrival — golden hour",
+        "ar": "الوصول من الشارع — الساعة الذهبية",
+        "ckb": "گەیشتن لە شەقامەوە — کاتژمێری زێڕین",
+        "zh": "街道抵达 · 黄金时刻"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1115,
+      "exposureStops": -1.86,
+      "samples": 200
+    },
+    {
+      "file": "street_golden_sun.jpg",
+      "title": {
+        "en": "Low aerial — into the sunset",
+        "ar": "لقطة جوية منخفضة — باتجاه الغروب",
+        "ckb": "وێنەی ئاسمانی نزم — بەرەو ئاوابوون",
+        "zh": "低空 · 迎着夕阳"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1090,
+      "exposureStops": -3.98,
+      "samples": 200
+    },
+    {
+      "file": "street_arrival_dusk.jpg",
+      "title": {
+        "en": "Street arrival — blue hour",
+        "ar": "الوصول من الشارع — الغسق",
+        "ckb": "گەیشتن لە شەقامەوە — کاتی شینی ئێوارە",
+        "zh": "街道抵达 · 蓝调时刻"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1165,
+      "exposureStops": 0.71,
+      "samples": 200
+    },
+    {
+      "file": "street_arrival_night.jpg",
+      "title": {
+        "en": "Street arrival — night",
+        "ar": "الوصول من الشارع — ليلاً",
+        "ckb": "گەیشتن لە شەقامەوە — شەو",
+        "zh": "街道抵达 · 夜晚"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1290,
+      "exposureStops": 2.59,
+      "samples": 200
+    },
+    {
+      "file": "street_entrance.jpg",
+      "title": {
+        "en": "Entrance and forecourt — afternoon",
+        "ar": "المدخل والساحة الأمامية — عصراً",
+        "ckb": "دەروازە و حەوشەی پێشەوە — پاشنیوەڕۆ",
+        "zh": "入口与前庭 · 下午"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 960,
+      "exposureStops": -3.6,
+      "samples": 200
+    },
+    {
+      "file": "street_entrance_night.jpg",
+      "title": {
+        "en": "Entrance and forecourt — night",
+        "ar": "المدخل والساحة الأمامية — ليلاً",
+        "ckb": "دەروازە و حەوشەی پێشەوە — شەو",
+        "zh": "入口与前庭 · 夜晚"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1290,
+      "exposureStops": 1.64,
+      "samples": 200
+    },
+    {
+      "file": "living.jpg",
+      "title": {
+        "en": "Model One — living & dining",
+        "ar": "النموذج الأول — المعيشة والطعام",
+        "ckb": "مۆدێلی یەکەم — دانیشتن و نانخواردن",
+        "zh": "一号户型 — 客厅与餐厅"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 900,
+      "exposureStops": -2.74,
+      "samples": 200
+    },
+    {
+      "file": "kitchen.jpg",
+      "title": {
+        "en": "Model One — kitchen",
+        "ar": "النموذج الأول — المطبخ",
+        "ckb": "مۆدێلی یەکەم — چێشتخانە",
+        "zh": "一号户型 — 厨房"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 900,
+      "exposureStops": -3.18,
+      "samples": 200
+    },
+    {
+      "file": "master.jpg",
+      "title": {
+        "en": "Model One — master bedroom",
+        "ar": "النموذج الأول — غرفة النوم الرئيسية",
+        "ckb": "مۆدێلی یەکەم — ژووری نووستنی سەرەکی",
+        "zh": "一号户型 — 主卧室"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 960,
+      "exposureStops": -2.48,
+      "samples": 200
+    },
+    {
+      "file": "bathroom.jpg",
+      "title": {
+        "en": "Model One — bathroom",
+        "ar": "النموذج الأول — الحمّام",
+        "ckb": "مۆدێلی یەکەم — گەرماو",
+        "zh": "一号户型 — 浴室"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 900,
+      "exposureStops": -1.55,
+      "samples": 200
+    },
+    {
+      "file": "balcony.jpg",
+      "title": {
+        "en": "Model One — balcony",
+        "ar": "النموذج الأول — البلكونة",
+        "ckb": "مۆدێلی یەکەم — باڵکۆن",
+        "zh": "一号户型 — 阳台"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1000,
+      "exposureStops": -2.48,
+      "samples": 200
+    },
+    {
+      "file": "living_golden.jpg",
+      "title": {
+        "en": "Model One — living, golden hour",
+        "ar": "النموذج الأول — المعيشة، الساعة الذهبية",
+        "ckb": "مۆدێلی یەکەم — دانیشتن، کاتژمێری زێڕین",
+        "zh": "一号户型 — 客厅 · 黄金时刻"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1110,
+      "exposureStops": -1.11,
+      "samples": 200
+    },
+    {
+      "file": "living_evening.jpg",
+      "title": {
+        "en": "Model One — living, evening",
+        "ar": "النموذج الأول — المعيشة، المساء",
+        "ckb": "مۆدێلی یەکەم — دانیشتن، ئێوارە",
+        "zh": "一号户型 — 客厅 · 傍晚"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1170,
+      "exposureStops": -1.67,
+      "samples": 200
+    },
+    {
+      "file": "living_night.jpg",
+      "title": {
+        "en": "Model One — living, night",
+        "ar": "النموذج الأول — المعيشة، ليلاً",
+        "ckb": "مۆدێلی یەکەم — دانیشتن، شەو",
+        "zh": "一号户型 — 客厅 · 夜晚"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1320,
+      "exposureStops": -0.99,
+      "samples": 200
+    },
+    {
+      "file": "B_living.jpg",
+      "title": {
+        "en": "Model Two — living & dining",
+        "ar": "النموذج الثاني — المعيشة والطعام",
+        "ckb": "مۆدێلی دووەم — دانیشتن و نانخواردن",
+        "zh": "二号户型 — 客厅与餐厅"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 900,
+      "exposureStops": -2.62,
+      "samples": 200
+    },
+    {
+      "file": "lobby.jpg",
+      "title": {
+        "en": "Ground floor — lobby & reception",
+        "ar": "الطابق الأرضي — الردهة والاستقبال",
+        "ckb": "نهۆمی زەوی — هۆڵ و پێشوازی",
+        "zh": "首层 — 大堂与接待"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 900,
+      "exposureStops": -2.63,
+      "samples": 200
+    },
+    {
+      "file": "cafe.jpg",
+      "title": {
+        "en": "Level 11 — café",
+        "ar": "الطابق ١١ — المقهى",
+        "ckb": "نهۆمی ١١ — کافێ",
+        "zh": "11 层 — 咖啡厅"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1080,
+      "exposureStops": -3.48,
+      "samples": 200
+    },
+    {
+      "file": "spa.jpg",
+      "title": {
+        "en": "Level 10 — spa & sauna",
+        "ar": "الطابق ١٠ — السبا والساونا",
+        "ckb": "نهۆمی ١٠ — سپا و ساونا",
+        "zh": "10 层 — 水疗与桑拿"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 900,
+      "exposureStops": 0.07,
+      "samples": 200
+    },
+    {
+      "file": "pool.jpg",
+      "title": {
+        "en": "Level 10 — indoor pool",
+        "ar": "الطابق ١٠ — المسبح الداخلي",
+        "ckb": "نهۆمی ١٠ — مەلەوانگەی ناوەکی",
+        "zh": "10 层 — 室内泳池"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 900,
+      "exposureStops": -3.66,
+      "samples": 200
+    },
+    {
+      "file": "gym.jpg",
+      "title": {
+        "en": "Level 10 — gym",
+        "ar": "الطابق ١٠ — النادي الرياضي",
+        "ckb": "نهۆمی ١٠ — هۆڵی وەرزش",
+        "zh": "10 层 — 健身房"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 900,
+      "exposureStops": -2.71,
+      "samples": 200
+    },
+    {
+      "file": "restaurant.jpg",
+      "title": {
+        "en": "Level 11 — restaurant",
+        "ar": "الطابق ١١ — المطعم",
+        "ckb": "نهۆمی ١١ — ڕێستۆرانت",
+        "zh": "11 层 — 餐厅"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1020,
+      "exposureStops": -3.76,
+      "samples": 200
+    },
+    {
+      "file": "terrace.jpg",
+      "title": {
+        "en": "Level 11 — panoramic terrace",
+        "ar": "الطابق ١١ — التراس البانورامي",
+        "ckb": "نهۆمی ١١ — تێراسی پانۆرامی",
+        "zh": "11 层 — 全景露台"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1050,
+      "exposureStops": -2.96,
+      "samples": 200
+    },
+    {
+      "file": "A_bedroom2.jpg",
+      "title": {
+        "en": "Model One — second bedroom",
+        "ar": "النموذج الأول — غرفة النوم الثانية",
+        "ckb": "مۆدێلی یەکەم — ژووری نووستنی دووەم",
+        "zh": "一号户型 — 次卧"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 960,
+      "exposureStops": -2.17,
+      "samples": 200
+    },
+    {
+      "file": "A_balcony_evening.jpg",
+      "title": {
+        "en": "Model One — balcony, evening",
+        "ar": "النموذج الأول — البلكونة، المساء",
+        "ckb": "مۆدێلی یەکەم — باڵکۆن، ئێوارە",
+        "zh": "一号户型 — 阳台 · 傍晚"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1170,
+      "exposureStops": 0.53,
+      "samples": 200
+    },
+    {
+      "file": "B_kitchen.jpg",
+      "title": {
+        "en": "Model Two — kitchen",
+        "ar": "النموذج الثاني — المطبخ",
+        "ckb": "مۆدێلی دووەم — چێشتخانە",
+        "zh": "二号户型 — 厨房"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 900,
+      "exposureStops": -3.23,
+      "samples": 200
+    },
+    {
+      "file": "B_master.jpg",
+      "title": {
+        "en": "Model Two — master bedroom",
+        "ar": "النموذج الثاني — غرفة النوم الرئيسية",
+        "ckb": "مۆدێلی دووەم — ژووری نووستنی سەرەکی",
+        "zh": "二号户型 — 主卧室"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 960,
+      "exposureStops": -2.14,
+      "samples": 200
+    },
+    {
+      "file": "B_bathroom.jpg",
+      "title": {
+        "en": "Model Two — bathroom",
+        "ar": "النموذج الثاني — الحمّام",
+        "ckb": "مۆدێلی دووەم — گەرماو",
+        "zh": "二号户型 — 浴室"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 900,
+      "exposureStops": -1.25,
+      "samples": 200
+    },
+    {
+      "file": "B_balcony.jpg",
+      "title": {
+        "en": "Model Two — balcony",
+        "ar": "النموذج الثاني — البلكونة",
+        "ckb": "مۆدێلی دووەم — باڵکۆن",
+        "zh": "二号户型 — 阳台"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1050,
+      "exposureStops": -3.07,
+      "samples": 200
+    },
+    {
+      "file": "B_bedroom2.jpg",
+      "title": {
+        "en": "Model Two — second bedroom",
+        "ar": "النموذج الثاني — غرفة النوم الثانية",
+        "ckb": "مۆدێلی دووەم — ژووری نووستنی دووەم",
+        "zh": "二号户型 — 次卧"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 960,
+      "exposureStops": -2.37,
+      "samples": 200
+    },
+    {
+      "file": "terrace_dusk.jpg",
+      "title": {
+        "en": "Level 11 — terrace, blue hour",
+        "ar": "الطابق ١١ — التراس، الغسق",
+        "ckb": "نهۆمی ١١ — تێراس، کاتی شینی ئێوارە",
+        "zh": "11 层 — 露台 · 蓝调时刻"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1165,
+      "exposureStops": 0.44,
+      "samples": 200
+    },
+    {
+      "file": "restaurant_evening.jpg",
+      "title": {
+        "en": "Level 11 — restaurant, evening",
+        "ar": "الطابق ١١ — المطعم، المساء",
+        "ckb": "نهۆمی ١١ — ڕێستۆرانت، ئێوارە",
+        "zh": "11 层 — 餐厅 · 傍晚"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1200,
+      "exposureStops": -0.84,
+      "samples": 200
+    },
+    {
+      "file": "A_master_bath.jpg",
+      "title": {
+        "en": "Model One — master ensuite",
+        "ar": "النموذج الأول — حمّام الجناح الرئيسي",
+        "ckb": "مۆدێلی یەکەم — گەرماوی ژووری سەرەکی",
+        "zh": "一号户型 — 主卧套内浴室"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 900,
+      "exposureStops": -2.25,
+      "samples": 200
+    },
+    {
+      "file": "A_dressing.jpg",
+      "title": {
+        "en": "Model One — dressing room",
+        "ar": "النموذج الأول — غرفة الملابس",
+        "ckb": "مۆدێلی یەکەم — ژووری جلوبەرگ",
+        "zh": "一号户型 — 衣帽间"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 960,
+      "exposureStops": -1.66,
+      "samples": 200
+    },
+    {
+      "file": "A_entry.jpg",
+      "title": {
+        "en": "Model One — entrance hall, evening",
+        "ar": "النموذج الأول — مدخل الشقة، المساء",
+        "ckb": "مۆدێلی یەکەم — هۆڵی چوونەژوورەوە، ئێوارە",
+        "zh": "一号户型 — 入户玄关 · 傍晚"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1170,
+      "exposureStops": -1.74,
+      "samples": 200
+    },
+    {
+      "file": "B_bedroom3.jpg",
+      "title": {
+        "en": "Model Two — third bedroom",
+        "ar": "النموذج الثاني — غرفة النوم الثالثة",
+        "ckb": "مۆدێلی دووەم — ژووری نووستنی سێیەم",
+        "zh": "二号户型 — 第三卧室"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 960,
+      "exposureStops": -2.91,
+      "samples": 200
+    },
+    {
+      "file": "B_master_bath.jpg",
+      "title": {
+        "en": "Model Two — master ensuite",
+        "ar": "النموذج الثاني — حمّام الجناح الرئيسي",
+        "ckb": "مۆدێلی دووەم — گەرماوی ژووری سەرەکی",
+        "zh": "二号户型 — 主卧套内浴室"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 900,
+      "exposureStops": -2.36,
+      "samples": 200
+    },
+    {
+      "file": "A_hall.jpg",
+      "title": {
+        "en": "Model One — hallway, evening",
+        "ar": "النموذج الأول — الممر، المساء",
+        "ckb": "مۆدێلی یەکەم — ڕاڕەو، ئێوارە",
+        "zh": "一号户型 — 走廊 · 傍晚"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1170,
+      "exposureStops": -1.6,
+      "samples": 200
+    },
+    {
+      "file": "B_laundry.jpg",
+      "title": {
+        "en": "Model Two — laundry",
+        "ar": "النموذج الثاني — غرفة الغسيل",
+        "ckb": "مۆدێلی دووەم — ژووری جلشۆردن",
+        "zh": "二号户型 — 洗衣间"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 960,
+      "exposureStops": -1.95,
+      "samples": 200
+    },
+    {
+      "file": "B_hall.jpg",
+      "title": {
+        "en": "Model Two — hallway, evening",
+        "ar": "النموذج الثاني — الممر، المساء",
+        "ckb": "مۆدێلی دووەم — ڕاڕەو، ئێوارە",
+        "zh": "二号户型 — 走廊 · 傍晚"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1170,
+      "exposureStops": -2.01,
+      "samples": 200
+    },
+    {
+      "file": "B_dressing.jpg",
+      "title": {
+        "en": "Model Two — dressing room",
+        "ar": "النموذج الثاني — غرفة الملابس",
+        "ckb": "مۆدێلی دووەم — ژووری جلوبەرگ",
+        "zh": "二号户型 — 衣帽间"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 960,
+      "exposureStops": -1.92,
+      "samples": 200
+    },
+    {
+      "file": "lobby_night.jpg",
+      "title": {
+        "en": "Ground floor — lobby at night",
+        "ar": "الطابق الأرضي — الردهة ليلاً",
+        "ckb": "نهۆمی زەوی — هۆڵ لە شەودا",
+        "zh": "首层 — 大堂 · 夜晚"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1290,
+      "exposureStops": -1.35,
+      "samples": 200
+    },
+    {
+      "file": "wellness_lounge.jpg",
+      "title": {
+        "en": "Level 10 — wellness lounge",
+        "ar": "الطابق ١٠ — صالة الاسترخاء",
+        "ckb": "نهۆمی ١٠ — هۆڵی پشوودان",
+        "zh": "10 层 — 康体休息厅"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 960,
+      "exposureStops": -2.78,
+      "samples": 200
+    },
+    {
+      "file": "terrace_night.jpg",
+      "title": {
+        "en": "Level 11 — terrace, late evening",
+        "ar": "الطابق ١١ — التراس، آخر المساء",
+        "ckb": "نهۆمی ١١ — تێراس، درەنگانی ئێوارە",
+        "zh": "11 层 — 露台 · 入夜时分"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1290,
+      "exposureStops": 1.86,
+      "samples": 200
+    },
+    {
+      "file": "shisha_lounge.jpg",
+      "title": {
+        "en": "Level 11 — shisha lounge (conditional concept)",
+        "ar": "الطابق ١١ — ركن الشيشة (مفهوم مشروط)",
+        "ckb": "نهۆمی ١١ — گۆشەی نێرگەلە (چەمکی مەرجدار)",
+        "zh": "11 层 — 水烟休息区（有条件的概念）"
+      },
+      "scope": "derived_from_actual_scene",
+      "package": "standard",
+      "timeMinutes": 1230,
+      "exposureStops": 1.83,
+      "samples": 200
+    }
+  ]
+}

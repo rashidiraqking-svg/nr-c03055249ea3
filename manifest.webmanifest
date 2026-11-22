@@ -1,0 +1,17 @@
+{
+  "name": "NAKHLA RESIDENCE — نخلة ريزيدنس",
+  "short_name": "NAKHLA",
+  "description": "An original concept residential tower in Basra: live 3D, photoreal views and floor plans. Concept project, not for sale.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#000000",
+  "theme_color": "#131716",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
